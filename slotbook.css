@@ -1,0 +1,130 @@
+body {
+    font-family: "Roboto";
+    text-align: center;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.colored-section {
+    background-color: #ff4c68;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-brand {
+    font-family: "Roboto";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Roboto";
+}
+
+#title .container-fluid {
+    padding: 3% 15% 3%;
+}
+
+.main-title {
+    padding-top: 15%;
+    padding-bottom: 5%;
+    text-decoration: underline;
+}
+
+.overview {
+    padding-top: 20%;
+    font-size: 2rem;
+    font-weight: semi-bold;
+}
+
+.description {
+    text-align: left;
+    padding-top: 11%;
+    text-decoration: underline;
+}
+
+.overview-description {
+    text-align: left;
+}
+
+.description-problem {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.research-description {
+    text-align: left;
+    padding-top: 12%;
+}
+
+.list-group {
+    padding-bottom: 3%;
+}
+
+.research-img {
+    padding-bottom: 3%;
+}
+
+.main-title1 {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-decoration: underline;
+}
+
+.myimg {
+    margin: 5% auto 5% auto;
+}
+
+.aboutclass {
+    margin: 2% 20% 2% 20%;
+    text-align: left;
+}
+
+#footerid {
+    background-color: #ff4c68;
+    color: white;
+    margin-top: 20px;
+}
+
+.aclass {
+    color: white;
+}
+
+#secondrowlast {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.ali {
+    color: white;
+}
+
+.skills {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.col-lg-4 {
+    margin-top: 40px;
+}
+
+.dotted {
+    border-style: dashed;
+    height: 0;
+    width: 300px;
+    border-spacing: 5px;
+    border-color: black;
+}
+
+.skillsection {
+    margin-top: 20px;
+}
+
+.skillsection.h1class {
+    margin-top: 20px;
+}

@@ -1,0 +1,87 @@
+body {
+    font-family: "Roboto";
+    text-align: center;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.colored-section {
+    background-color: #ff4c68;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-brand {
+    font-family: "Roboto";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Roboto";
+}
+
+#title .container-fluid {
+    padding: 3% 15% 3%;
+}
+
+.main-title {
+    padding-top: 15%;
+    padding-bottom: 5%;
+    text-decoration: underline;
+}
+
+.overview {
+    padding-top: 20%;
+    font-size: 2rem;
+    font-weight: semi-bold;
+}
+
+.description {
+    text-align: left;
+    padding-top: 11%;
+    text-decoration: underline;
+}
+
+.overview-description {
+    text-align: left;
+}
+
+.description-problem {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.research-description {
+    text-align: left;
+    padding-top: 12%;
+}
+
+.list-group {
+    padding-bottom: 3%;
+}
+
+.research-img {
+    padding-bottom: 3%;
+}
+
+#footerid {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.aclass {
+    color: white;
+}
+
+#secondrowlast {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.ali {
+    color: white;
+}
